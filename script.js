@@ -44,4 +44,6 @@ function displayTimer() {
         ? "0" + milliseconds
         : milliseconds;
 
+    timeRef.innerHTML = `${h} : ${m} : ${s} : ${ms}`; 	
+
 }
