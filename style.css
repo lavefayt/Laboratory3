@@ -24,6 +24,14 @@ body {
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.338);
 }
 
+.header { 
+    width:none; 
+    margin: 5px; 
+    font-size: 20px;
+    margin: 20px 0px 30px 50px;
+    color: rgb(124, 0, 85); 
+  }
+
 .timer-display {
     position: relative;
     width: 92%;
